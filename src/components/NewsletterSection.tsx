@@ -9,7 +9,7 @@ export default function NewsletterSection({ onScrollToForm }: NewsletterSectionP
   const [selectedChannel, setSelectedChannel] = useState<'whatsapp' | 'sms'>('whatsapp');
   const [copied, setCopied] = useState(false);
 
-  const whatsappMessage = "Здравствуйте, Анна! Спасибо, что посетили наш салон на прошлой неделе. Будем рады видеть вас снова! Для вас открыта предварительная запись на обновление маникюра на удобное время. Забронировать слот онлайн: clck.ru/beauty";
+  const whatsappMessage = "Здравствуйте, Анна! Спасибо, что посетили наш салон на прошлой неделе. Будем рады видеть вас снова! Для вас открыта предварительная запись на массаж на удобное время. Забронировать время онлайн можно по ссылке или напишите нам: clck.ru/beauty";
   const smsMessage = "Анна, ждем вас снова в салоне Эстетика! Запись на повторный визит к мастеру Елене со скидкой 5% на следующую неделю: clck.ru/beauty";
 
   const handleCopy = () => {
