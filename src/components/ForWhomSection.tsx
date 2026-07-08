@@ -65,11 +65,11 @@ export default function ForWhomSection() {
             <div className="space-y-1.5">
               <h4 className="font-extrabold text-gray-950 text-base">Ключевое требование к масштабу</h4>
               <p className="text-xs text-gray-700 leading-relaxed">
-                Лучше всего продукт раскрывается в <strong>сетях от 5 точек</strong>, где уже накоплена активная клиентская база в YClients, укомплектован штат мастеров, выстроены повторные услуги и регулярные записи. 
+                Лучше всего продукт раскрывается в сетях, где уже накоплена активная клиентская база в YClients.
               </p>
               <div className="flex items-center gap-1.5 text-[11px] text-blue-800 font-bold uppercase tracking-wider pt-1.5">
                 <AlertCircle className="h-3.5 w-3.5" />
-                Если базы нет, возвращать пока некого
+                Только для тех, кто не хочет терять клиентов.
               </div>
             </div>
           </div>
