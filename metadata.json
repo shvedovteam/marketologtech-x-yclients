@@ -1,0 +1,6 @@
+{
+  "name": "MarketologTech x YClients",
+  "description": "Профессиональный B2B-лендинг для собственников сетей салонов, автоматизирующий возвращение клиентов и аналитику на данных базы YClients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
